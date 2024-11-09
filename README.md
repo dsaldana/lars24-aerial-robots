@@ -1,2 +1,1 @@
-# lars25-aerial-robots
-Tutorial: Design and Control of Aerial Robots
+# LARS 20425 Tutorial: Design and Control of Aerial Robots
