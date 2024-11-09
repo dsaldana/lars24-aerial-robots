@@ -1,1 +1,1 @@
-# LARS 20425 Tutorial: Design and Control of Aerial Robots
+# LARS 2024 Tutorial: Design and Control of Aerial Robots
